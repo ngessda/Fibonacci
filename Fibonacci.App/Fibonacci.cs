@@ -27,11 +27,7 @@ namespace Fibonacci.App
         public Fibonacci(int ix)
         {
             index = ix;
-            result = 0;
-        }
-        public void FibonacciNumberValue()
-        {
-            result = FibonacciNumberFinder(index);
+            result = FibonacciNumberFinder(ix);
         }
 
         private int FibonacciNumberFinder(int ix)
