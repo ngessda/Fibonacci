@@ -17,14 +17,21 @@ namespace Fibonacci.App
             }
         }
         private int result;
+        public int Result
+        {
+            get
+            {
+                return result;
+            }
+        }
         public Fibonacci(int ix)
         {
             index = ix;
+            result = 0;
         }
-        public int FibonacciNumberValue()
+        public void FibonacciNumberValue()
         {
             result = FibonacciNumberFinder(index);
-            return result;
         }
 
         private int FibonacciNumberFinder(int ix)
