@@ -1,0 +1,7 @@
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\bin\Debug\Fibonacci.App.exe.config
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\bin\Debug\Fibonacci.App.exe
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\bin\Debug\Fibonacci.App.pdb
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\obj\Debug\Fibonacci.App.csproj.AssemblyReference.cache
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\obj\Debug\Fibonacci.App.csproj.CoreCompileInputs.cache
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\obj\Debug\Fibonacci.App.exe
+C:\Users\micky\source\repos\Fibonacci.App\Fibonacci.App\obj\Debug\Fibonacci.App.pdb
