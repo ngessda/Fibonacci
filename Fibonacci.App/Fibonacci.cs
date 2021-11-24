@@ -9,6 +9,13 @@ namespace Fibonacci.App
     class Fibonacci
     {
         private int index;
+        public int Index
+        {
+            get
+            {
+                return index;
+            }
+        }
         private int result;
         public Fibonacci(int ix)
         {
